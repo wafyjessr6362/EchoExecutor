@@ -11,4 +11,5 @@ Roblox Client Executor not a Server
 * Hydrogen Executor -- A Warn this some viruses name like that use android not pc
 
 ## Copy Script
-Copy[[loadstring("https://raw.githubusercontent.com/wafyjessr6362/EchoExecutor/refs/heads/main/Echo%20Executor.lua")()
+````lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wafyjessr6362/EchoExecutor/main/Echo%20Executor.lua"))()
