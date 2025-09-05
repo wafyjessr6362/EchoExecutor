@@ -14,3 +14,20 @@ Roblox Client Executor not a Server
 ## Copy Script
 ````lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/wafyjessr6362/EchoExecutor/main/Echo%20Executor.lua"))()
+````
+## Echo Admin
+Roblox Client Admin not a Server
+
+## Allow Executors
+* Solara
+* Synapse X
+* Krnl
+* Script-Ware
+* Delta
+* Fluxus
+  Hydrogen not allow
+
+## Script
+````lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wafyjessr6362/EchoExecutor/refs/heads/main/Echo%20Admin.txt))()
+````
