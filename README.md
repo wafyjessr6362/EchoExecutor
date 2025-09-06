@@ -29,5 +29,5 @@ Roblox Client Admin not a Server
 
 ## Script
 ````lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/wafyjessr6362/EchoExecutor/refs/heads/main/Echo%20Admin.txt))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wafyjessr6362/EchoExecutor/refs/heads/main/Echo%20Admin.txt"))()
 ````
